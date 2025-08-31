@@ -1,6 +1,6 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Life Journey
 
-Hello! This portfolio is about my journey into Data Analytics through SQL, Python, Excel, and dashboards.  
+Hello! This portfolio is about my journey into Data Analytics/Data Science through SQL, Python, Excel, and dashboards.  
 It includes case studies, mini-projects, and a capstone project in healthcare analytics.  
 I wish to transition slowly from nothing to Data Analytics, to Machine Learning, and lastly AI! 
 
