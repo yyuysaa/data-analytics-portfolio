@@ -24,5 +24,5 @@ I wish to transition slowly from nothing to Data Analytics, to Machine Learning,
 ---
 
 ## 📫 Connect
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/matthew-jia-jun-loh-6a0a80233/))  
+- [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/matthew-jia-jun-loh-6a0a80233/)  
 
