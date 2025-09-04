@@ -20,7 +20,7 @@ Each notebook focuses on cleaning, analyzing, and visualizing real datasets to u
   - The back nine showed higher scoring averages than the front nine.  
   - A few standout players consistently performed under par across all rounds.  
 
-- **File:** [AJGA_Golf_Analysis.ipynb](./AJGA_Golf_Analysis_Matt.ipynb)
+- **File:** [AJGA_Golf_Analysis.ipynb](./AJGA_Golf_Analysis.ipynb)
 
 ---
 
