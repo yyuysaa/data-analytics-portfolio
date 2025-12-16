@@ -22,7 +22,7 @@ Each notebook focuses on cleaning, analyzing, and visualizing real datasets to u
   - Higher AI assistance levels were associated with modest increases in task completion rates, indicating AI functions best as a supportive learning tool rather than a guarantee of success.
   - Differences in AI reuse patterns suggest that students prioritize task success over subjective experience when deciding whether to reuse AI.
 
-**File:** [ai-usgae-of-student_study_2025.ipynb](./(https://www.kaggle.com/code/autummmm/ai-usage-of-students))
+- **File:** [ai-usgae-of-student_study_2025.ipynb](./ai-usgae-of-student_study_2025.ipynb)
 ---
 
 ## ⛳ Golf Tournament Score Analysis
