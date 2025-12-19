@@ -16,10 +16,10 @@ I wish to transition slowly from nothing to Data Analytics, to Machine Learning,
 ---
 
 ## 🛠️ Tools & Skills
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Numpy, Seaborn, MatPlotLib, SciPy, Statsmodels)
 - SQL (joins, window functions, case studies)
 - Excel (Power Query, PivotTables, XLOOKUP)
-- Tableau / Power BI (dashboards, KPI tracking)
+- Tableau / PowerBI (dashboards, KPI tracking)
 
 ---
 
