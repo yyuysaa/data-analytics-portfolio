@@ -44,8 +44,5 @@ Each notebook focuses on cleaning, analyzing, and visualizing real datasets to u
 
 ---
 
-## 📊 Planned EDA Projects
-- Healthcare dataset analysis (readmission rates, disparities).  
-- Mental health survey deep dive.  
-- Opioid overdose trends (multi-dataset merge + visualization).  
+
 
