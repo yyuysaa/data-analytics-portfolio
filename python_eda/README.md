@@ -1,6 +1,6 @@
 # 🐍 Python Exploratory Data Analysis (EDA)
 
-This folder contains Python-based exploratory analysis projects using **Pandas, Matplotlib, and Seaborn**.  
+This folder contains Python-based exploratory analysis projects.  
 Each notebook focuses on cleaning, analyzing, and visualizing real datasets to uncover insights.
 
 ---
