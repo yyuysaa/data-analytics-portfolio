@@ -5,6 +5,26 @@ Each notebook focuses on cleaning, analyzing, and visualizing real datasets to u
 
 ---
 
+## 💳 Credit Card Fraud Detection with a Neural Network 
+- **Tool:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib)
+- **Goal:** Detect fraudulent credit card transactions in a highly imbalanced dataset while prioritizing fraud recall using precision–recall–based evaluation.
+- **Data:** Kaggle credit card transaction dataset containing anonymized PCA features (V1–V28), transaction Time, Amount, and a binary fraud label (Class).
+- **Steps:**  
+  - Performed stratified train–test split to preserve fraud distribution.
+  - Scaled raw features (Time, Amount) using StandardScaler while preventing data leakage.
+  - Addressed extreme class imbalance with class weighting to emphasize fraud detection.
+  - Built and trained a lightweight neural network with Batch Normalization, Dropout, and Early Stopping.
+  - Evaluated performance using Precision–Recall metrics, Average Precision (AP), and classification reports.
+  - Analyzed the precision–recall curve to understand threshold tradeoffs between fraud recall and false positives.
+
+- **Key Findings:**  
+  - Achieved an Average Precision (AP) of ~0.71, indicating strong performance under severe class imbalance.
+  - Detected over 92% of fraudulent transactions, prioritizing recall for rare-event detection.
+  - Demonstrated effective tradeoff between fraud detection and false positives, consistent with real-world fraud systems.
+
+- **File:** [credit-card-fraud-detection-with-a-neural-network.ipynb](./credit-card-fraud-detection-with-a-neural-network_matt_2025.ipynb)
+--- 
+
 ## 🤖 AI Usage of Students' Study
 - **Tool:** Python (Pandas, Matplotlib, SciPy, Statsmodels)
 - **Goal:** Analyze student interactions with AI-assisted learning tools to understand what factors influence continued AI usage.
