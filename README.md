@@ -15,27 +15,27 @@ It includes case studies, mini-projects, and full-stack builds spanning analytic
 ---
 
 ## 🛠️ Tools & Skills
-# Languages
+### Languages
 - Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels)
 - SQL (joins, window functions, aggregation, case studies)
 - JavaScript / TypeScript
 
-# Machine Learning & AI
+### Machine Learning & AI
 - Deep learning with TensorFlow / Keras (and PyTorch, in progress)
 - Neural networks for classification and imbalanced data
 - RAG (Retrieval-Augmented Generation) systems
 - LLM application development (Claude API, prompt engineering, tool use)
 - Agentic AI (multi-source ingestion, autonomous pipelines, MCP)
 
-# Cloud & Data Infrastructure
+### Cloud & Data Infrastructure
 - AWS (Bedrock, DynamoDB, S3, OpenSearch Serverless, SES)
 - Vector search & serverless data stores
 
-# Full-Stack Development
+### Full-Stack Development
 - React, Express, Node.js
 - REST APIs and app deployment
 
-# Analytics & BI
+### Analytics & BI
 - Excel (Power Query, PivotTables, XLOOKUP)
 - Tableau / Power BI (dashboards, KPI tracking)
 
