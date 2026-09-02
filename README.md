@@ -1,8 +1,7 @@
 # 📊 Data Life Journey
 
-👋Hello! This portfolio is about my journey into Data Analytics/Data Science through SQL, Python, Excel, and dashboards.  
-It includes case studies, mini-projects, and a capstone project in healthcare analytics.  
-I wish to transition slowly from nothing to Data Analytics, to Machine Learning, and lastly AI! 
+👋 Hello! This portfolio tracks my journey into the real world through SQL, Python, Excel, dashboards, machine learning, and agentic AI.
+It includes case studies, mini-projects, and full-stack builds spanning analytics, deep learning, and production AI systems. My goal has been to move steadily from Analytics → Machine Learning → AI, and these projects mark that path.
 
 ---
 
@@ -16,13 +15,32 @@ I wish to transition slowly from nothing to Data Analytics, to Machine Learning,
 ---
 
 ## 🛠️ Tools & Skills
-- Python (Pandas, Numpy, Seaborn, MatPlotLib, SciPy, Statsmodels)
-- SQL (joins, window functions, case studies)
+# Languages
+- Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels)
+- SQL (joins, window functions, aggregation, case studies)
+- JavaScript / TypeScript
+
+# Machine Learning & AI
+- Deep learning with TensorFlow / Keras (and PyTorch, in progress)
+- Neural networks for classification and imbalanced data
+- RAG (Retrieval-Augmented Generation) systems
+- LLM application development (Claude API, prompt engineering, tool use)
+- Agentic AI (multi-source ingestion, autonomous pipelines, MCP)
+
+# Cloud & Data Infrastructure
+- AWS (Bedrock, DynamoDB, S3, OpenSearch Serverless, SES)
+- Vector search & serverless data stores
+
+# Full-Stack Development
+- React, Express, Node.js
+- REST APIs and app deployment
+
+# Analytics & BI
 - Excel (Power Query, PivotTables, XLOOKUP)
-- Tableau / PowerBI (dashboards, KPI tracking)
+- Tableau / Power BI (dashboards, KPI tracking)
 
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/matthew-jia-jun-loh-6a0a80233/)  
+- [LinkedIn](https://www.linkedin.com/in/matthewloh-2005-yyyy/)  
 
