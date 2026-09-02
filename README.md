@@ -5,6 +5,18 @@ It includes case studies, mini-projects, and full-stack builds spanning analytic
 
 ---
 
+## 🚀 Featured Projects
+### AI IT Support Assistant — Hartnell College (🏆 Invent and Simplify Award)
+A full-stack, bilingual RAG-based chatbot for IT support. Built retrieval over institutional docs and served it through a responsive web app. Stack: AWS Bedrock, DynamoDB, S3, OpenSearch Serverless, React, Express
+
+### Credit Card Fraud Detection
+A neural network for imbalanced-class fraud detection, tuned for high recall (~93%) to minimize missed fraud cases. Stack: TensorFlow, Keras, Python
+
+### Hanni — Autonomous News & Market Briefing Agent
+An agentic system that ingests multi-source news (Reuters, AP, Bloomberg, SEC EDGAR), runs headline sentiment analysis, tracks an earnings/economic calendar, and delivers daily briefings to Telegram. Stack: Python, Claude API, OpenClaw
+
+---
+
 ## 📂 Projects
 
 - [SQL Case Studies](./excel_sql)  
