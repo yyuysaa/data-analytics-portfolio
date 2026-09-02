@@ -44,20 +44,4 @@ The chatbot surfaces citation URLs from Bedrock's retrieval results as clickable
 - AWS: DynamoDB · S3 · SES · Bedrock (Nova Pro)
 - Infrastructure: Cloudflare Tunnel · Tavus CVI persona API
 
-## 🏗️ Architecture at a Glance
-Student (voice/text)
-        │
-        ├── Typed chat ─────────────┐
-        │                           │
-        └── Video avatar (Tavus CVI)│
-                 │                  │
-                 ▼                  ▼
-        Server-side LLM proxy ──► Bedrock (knowledge base + Nova Pro)
-                 │
-                 ▼
-        Merged transcript (typed + spoken)
-                 │
-      ┌──────────┼───────────────┐
-      ▼          ▼               ▼
-  DynamoDB      S3            SES email
- (queryable)  (archive)   (summary + transcript)
+
