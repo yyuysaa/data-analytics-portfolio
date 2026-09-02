@@ -1,0 +1,23 @@
+{
+  "name": "personifyit-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.1093.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.1093.0",
+    "@aws-sdk/client-dynamodb": "^3.1093.0",
+    "@aws-sdk/client-s3": "^3.1093.0",
+    "@aws-sdk/client-ses": "^3.1093.0",
+    "@aws-sdk/lib-dynamodb": "^3.1093.0",
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^14.0.1"
+  }
+}
