@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PRESENT",
+    "slug": "present-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "PRESENT uses the camera so you can take a photo to check in on your scheduled activity.",
+        "NSPhotoLibraryAddUsageDescription": "PRESENT saves your check-in photos to your photo library so you can look back on them.",
+        "NSPhotoLibraryUsageDescription": "PRESENT needs photo library access to save your check-in photos to your device."
+      },
+      "bundleIdentifier": "com.anonymous.present-app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}

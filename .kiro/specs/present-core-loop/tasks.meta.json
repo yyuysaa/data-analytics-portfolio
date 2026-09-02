@@ -1,0 +1,80 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Initialize the Expo project and install dependencies": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486148
+      },
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579491756
+      }
+    ],
+    "2. Create the folder structure and shared constants": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486248
+      }
+    ],
+    "3. Implement the AI nudge placeholder": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486288
+      }
+    ],
+    "4. Implement the storage helpers for the activity": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486318
+      }
+    ],
+    "5. Implement the consecutive-day streak logic": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486347
+      }
+    ],
+    "6. Build the HomeScreen UI": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486382
+      }
+    ],
+    "7. Wire up saving and notification scheduling on HomeScreen": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486428
+      }
+    ],
+    "8. Build the CameraScreen check-in flow": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486462
+      }
+    ],
+    "9. Set up navigation and the notification tap handler in App.js": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486512
+      }
+    ],
+    "10. Verify the full loop on a physical device": [
+      {
+        "executionId": "7074662b-a7a9-4239-894a-37128578bc8e",
+        "chatSessionId": "sess_14a5b2f4-28d5-42ea-a3ab-151eb29c4564",
+        "timestamp": 1786579486538
+      }
+    ]
+  }
+}
